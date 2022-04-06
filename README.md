@@ -1,5 +1,5 @@
 # Emily Walker (eswalker) Website
 
-[Homepage](https://github.com/eswalkerUmich/eswalkerUmich.github.io/HOMEPAGE)
+[Homepage](https://eswalkerumich.github.io/HOMEPAGE)
 
-[Blog](https://github.com/eswalkerUmich/eswalkerUmich.github.io/BLOG)
+[Blog](https://eswalkerumich.github.io/BLOG)
