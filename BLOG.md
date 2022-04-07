@@ -1,8 +1,4 @@
-# Blog
-
-Here, you can find my recent projects and experiences.
-
-## Experience
+# Experience
 ### [SHLF](https://bookshlf.com/) 
 **Product Development Intern**
 
@@ -37,55 +33,53 @@ Los Angeles, CA ~ _April 2015 - Present_
 - Presented my work at the World Youth Wildlife Summit by African Conservation Trust and Project Rhino to bring together youth delegates aged 15-18 years and empower them to become ambassadors for conservation and to make a stand against wildlife crime
 
 
-## Projects
+# Projects
 
 ## _Professional_
-### Theta Tau Professional Engineering Organization
-**Minimal Spanning Trees** _(JavaScript, CSS, & HTML)_
-```markdown
+### **Theta Tau Professional Engineering Organization**
+**Minimal Spanning Trees** ```(JavaScript, CSS, & HTML)```
 - Designed and developed an interactive job crawler page on the [chapter website](https://thetatau-umich.org/#/jobs)
 - As a programmer, communicated design decisions between designers and stakeholders to create a clean user-friendly interface
-```
 
-### _University of Michigan Coursework_
-### EECS 281
-**Minimal Spanning Trees** _(C++)_
-```
+## _University of Michigan Coursework_
+### **EECS 281**
+**Minimal Spanning Trees** ```(C++)```
+
 Prims & Kruskals
-```
-**SQL Databases** _(C++)_
-```
+
+**SQL Databases** ```(C++)```
+
 - Created a relational database with an interface based on a subset of a standard query language using multiple interacting data structures
 - Evaluated the runtime and storage tradeoffs for storing and accessing data contained in multiple data structures and wrote a range of algorithms to handle different situations
-```
-**Star Wars Priority Queue Implementation** _(C++)_
-```
+
+**Star Wars Priority Queue Implementation** ```(C++)```
+
 - Implemented three different types of priority queues: sorted array, binary heap, and pairing heap with a unique functor to sort objects based on various parameter
 - Designed a custom interface with inheritance, basic dynamic polymorphism, and enumerated classes 
-```
-**Fastest Path to Treasure** _(C++)_ 
-```
+
+**Fastest Path to Treasure** ```(C++)```
+
 - Designed an algorithm to find the fastest route between two locations on a grid with various terrain using two deques 
 - Backtraced through the path and outputted it in either a map or list format with various output modes
-```
-### EECS 280
-**Machine Learning** _(C++)_
-```
+
+### **EECS 280**
+**Machine Learning** ```(C++)```
+
 - Implemented natural language processing and machine learning techniques to automatically identify the subject of posts from the EECS 280 learning management system where students ask questions in a forum-type format
 - Utilized recursion, binary search trees, templates, comparators, and implemented a map data structure
-```
-**Web Server for an Office Hours Queue** _(C++)_
-```
+
+**Web Server for an Office Hours Queue** ```(C++)```
+
 - Used C++ to create a REST API to read requests and write responses in simplified HTTP that produced a working web application accessible through any browser
 - Wrote a templated and object-oriented program structure, with a class representing a doubly-linked list which was used as a queue to hold requests
-```
-**Euchre** _(C++)_
-```
+
+**Euchre** ```(C++)```
+
 - Built Euchre, a popular Michigan  card game, through object-oriented programming with classes for the game's cards, pack, and deck
 - Implemented a Player Factory with 2 derived classes, taking into account both human and computer players
-```
-**Computer Vision** _(C++)_ 
-```
+
+**Computer Vision** ```(C++)``` 
+
 - Wrote a seam carving algorithm, which is a technique for content-aware resizing of images (sometimes known as “retargeting”)
 - Produced a program that could resize images in a way that changes the aspect ratio but does not distort the image
-```
+
