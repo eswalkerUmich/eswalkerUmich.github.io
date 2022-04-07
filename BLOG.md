@@ -1,28 +1,28 @@
 # Experience
-### [SHLF](https://bookshlf.com/) 
-**Product Development Intern**
+## [SHLF](https://bookshlf.com/) 
+### **Product Development Intern**
 
 Los Angeles, CA ~ _May 2021 - Aug 2021_
 - Assisted in developing and implementing new product iterations by formulating ideas on improving and shifting the platform side-by-side with UI/UX designers and web developers that saw 10x growth in 6 months
 - Managed a community of 10,000+ monthly active users for a first-year startup through curator outreach
 - Sourced content for weekly emails and recommended sections of the platform and administered tipping and curator monetization including new requests and accounting for over $300 in month-to-month tips
 
-### Girls Guide to Coding
-**Teaching Assistant**
+## Girls Guide to Coding
+### **Teaching Assistant**
 
 Los Angeles, CA ~ _May 2020 - June 2020_
 - Led 20 middle-school girls in exploring programming fundamentals and computational thinking, in a fun, creative, and hands-on environment, encouraging them to explore their passion for STEM 
 - Demonstrated the practical skills and use of robotics through LEGO EV3 and guided them through the basics of Java programming, micro:bit, and scratch
 
-### Girls Get I.T.
-**Instructor**
+## Girls Get I.T.
+### **Instructor**
 
 Los Angeles, CA ~ _June 2019 - August 2019_
 - Mentored 18 female-identifying and non-binary elementary schoolers in growing their confidence in STEM by guiding them through the basics of Java programming, cyber safety/kindness, and art
 - Coordinated field trips, activities, and presentations, micro:bit and scratch projects, and discussions
 
-### [Kids Against Animal Poaching](https://www.kidsaap.org/)
-**Founder**
+## [Kids Against Animal Poaching](https://www.kidsaap.org/)
+### **Founder**
 
 Los Angeles, CA ~ _April 2015 - Present_
 - Plan and complete fundraising events - have raised over $175,000 for elephant conservation throughout Kenya, Botswana, Gabon, Uganda, Angola, Namibia, Zambia, and Zimbabwe
