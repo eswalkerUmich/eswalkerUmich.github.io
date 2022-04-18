@@ -1,0 +1,7 @@
+image: cypress/browsers:node14.15.0-chrome86-ff82
+lhci:
+  script:
+    - npm install
+    - npm run build
+    - npm install -g @lhci/cli@0.8.x
+    - lhci autorun --upload.target=temporary-public-storage --collect.settings.chromeFlags="--no-sandbox" || echo "LHCI failed!"
