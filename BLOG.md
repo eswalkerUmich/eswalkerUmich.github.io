@@ -1,4 +1,6 @@
 [Blog 1](https://eswalkerUmich.github.io/blog1.html)
+[Blog 2](https://eswalkerUmich.github.io/blog2.html)
+[Blog 3](https://eswalkerUmich.github.io/blog3.html)
 # Experience
 ## [SHLF](https://bookshlf.com/) 
 ### **Product Development Intern**
